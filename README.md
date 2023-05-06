@@ -1,8 +1,11 @@
-group 91
+ENGG Group 91
+
 1. Team member
 
 Chan Pui Hei
+
 Hu Xiaobang
+
 Yu Siyuan
 
 2. Description
@@ -23,6 +26,8 @@ The goal is to arrange the number boards in order from 1-8 “O”, top to botto
 Of course, 3 by 3 is only a beginner's guide, and the difficulty level slowly increases. 4 by 4 and 5 by 5 are the rules, and so on.
 
 3. Implemented Features
+
+
 3.1. Generation of random game sets or events
 
 A function named mapgentidy.cpp is created to make random maps.
