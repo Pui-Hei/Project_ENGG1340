@@ -78,6 +78,8 @@ gamemain.cpp: This is the main body of the game, the actions of playing/loading/
 
 4. List of non-standard C/C++ libraries
 
+No additional libraries are required to run this program.
+
 5. Compilation technique:
 
 To compile the game, use the following command:
