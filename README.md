@@ -11,18 +11,31 @@ Yu Siyuan
 2. Description
 
 Our game has three difficulty levels: 3 times 3, 4 times 4, and 5 times 5. 
+
 3 by 3 is a total of 9 squares, need to move 1 to 8 eight numbers and one space.
+
 4 by 4 is a total of 16 squares, need to move 1 to 15 fifteen numbers and one space.
+
 5 by 5 is a total of 25 squares, need to move 1 to 24 twenty-four numbers and one space.
+
 Before introducing the steps, let's talk about the rules of the game, which are as follows:
+
   1.The numbers and space are entirely disordered at the beginning.
+  
   2.One number is moved at a time.
+  
   3.Numbers can only swap places with adjacent space.
+  
   4.All the numbers are in order in the end.
+  
 Let's take the simplest three-by-three as an example to talk about the steps. 
+
 There are 9 squares, and then only eight of them hold the number boards, 1-8, with one space in them. We can slide the board around to change its position on the grid.
+
 If you swap a number with an space, the original position of that number becomes an space and you can swap the number next to it with the space. 
+
 The goal is to arrange the number boards in order from 1-8 “O”, top to bottom and left to right in order of number size by moving them around. 
+
 Of course, 3 by 3 is only a beginner's guide, and the difficulty level slowly increases. 4 by 4 and 5 by 5 are the rules, and so on.
 
 3. Implemented Features
